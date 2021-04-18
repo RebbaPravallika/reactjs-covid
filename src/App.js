@@ -7,7 +7,7 @@ import {sortByCases,prettyPrintStat} from "./util";
 import LGraph from "./LGraph";
 import "leaflet/dist/leaflet.css";
 import{
-  MenuItem,FormControl,Select,Card,CardContent,Table,
+  MenuItem,FormControl,Select,Card,CardContent,
 } from "@material-ui/core";
 import "./StatsBox.css"
 
