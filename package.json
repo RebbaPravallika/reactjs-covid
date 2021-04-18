@@ -1,5 +1,5 @@
 {
-  "homepage":"https://RebbaPravallika.github.io/covid-19-tracker",
+  "homepage": "http:RebbaPravallika.github.io/reactjs-covid",
   "name": "covid-19-reactjs-tracker",
   "version": "0.1.0",
   "private": true,
@@ -12,8 +12,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
